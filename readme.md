@@ -51,3 +51,13 @@ O botão de crédito mostra todos os desenvolvedores do programa, seus nomes e o
 - Fernanda Costa Moraes
 - Jafte Carneiro Fagundes da Silva
 - Renato Pestana de Gouveia
+
+## Aprendizado
+Este projeto foi desenvolvido enquanto estava no primeiro semestre da faculdade e me ajudou a ter noção de muitas coisas novas, como:
+- Classes (Utilizadas para criar os botões por exemplo)
+- Funções (Utilizadas para gerar os botões)
+- Matrizes (Utilizadas para mapear os botões)
+- Organização de Código
+- Criação de Documentação
+- Liguagem Processing (Java)
+- Conceitos de variáveis locais e globais
